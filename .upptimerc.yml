@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Site | Bara
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
