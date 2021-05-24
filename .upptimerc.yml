@@ -29,8 +29,14 @@ status-website:
       href: https://bara.dev
     - title: CSGOTTT
       href: https://csgottt.com
+    - title: CSGOTTT - Docs
+      href: https://docs.csgottt.com
     - title: fuckTimer
       href: https://fucktimer.com
+      expectedStatusCodes: 
+        - 500
+    - title: fuckTimer - Docs
+      href: https://docs.fucktimer.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
