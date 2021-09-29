@@ -4,19 +4,19 @@
     "url": "https://bara.dev",
     "icon": "https://favicons.githubusercontent.com/bara.dev",
     "slug": "bara",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 108,
-    "timeWeek": 148,
-    "timeMonth": 140,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 361,
+    "timeDay": 150,
+    "timeWeek": 154,
+    "timeMonth": 142,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-29": 37
     }
   },
   {
