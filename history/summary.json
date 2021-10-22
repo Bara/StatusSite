@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 334,
-    "timeDay": 188,
-    "timeWeek": 186,
+    "time": 333,
+    "timeDay": 204,
+    "timeWeek": 189,
     "timeMonth": 161,
-    "timeYear": 334,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2021-09-29": 37
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 706,
-    "timeDay": 573,
+    "time": 705,
+    "timeDay": 602,
     "timeWeek": 647,
     "timeMonth": 694,
-    "timeYear": 706,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2021-10-16": 15
     }
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/fucktimer.com",
     "slug": "fuck-timer",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.00%",
     "time": 178,
-    "timeDay": 75,
-    "timeWeek": 126,
-    "timeMonth": 121,
+    "timeDay": 134,
+    "timeWeek": 133,
+    "timeMonth": 122,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2021-09-29": 18,
