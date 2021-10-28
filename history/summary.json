@@ -24,7 +24,7 @@
     "url": "https://csgottt.com",
     "icon": "https://favicons.githubusercontent.com/csgottt.com",
     "slug": "csgottt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 698,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2021-10-28": 0,
       "2021-10-16": 15
     }
   },
