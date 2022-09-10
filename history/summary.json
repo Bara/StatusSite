@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 596,
-    "timeDay": 925,
-    "timeWeek": 2971,
-    "timeMonth": 1502,
-    "timeYear": 652,
+    "timeDay": 490,
+    "timeWeek": 1203,
+    "timeMonth": 1480,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2022-06-29": 21,
       "2021-09-29": 37
@@ -27,14 +27,14 @@
     "slug": "csgottt",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "14.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "67.52%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "99.33%",
-    "time": 717,
-    "timeDay": 799,
+    "time": 716,
+    "timeDay": 634,
     "timeWeek": 742,
-    "timeMonth": 728,
+    "timeMonth": 718,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2022-09-08": 1243,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 128,
-    "timeDay": 113,
-    "timeWeek": 141,
-    "timeMonth": 169,
+    "timeDay": 173,
+    "timeWeek": 150,
+    "timeMonth": 172,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2022-06-29": 21,
@@ -70,8 +70,7 @@
       "2021-09-29": 18,
       "2021-09-13": 825,
       "2021-09-12": 1440,
-      "2021-09-11": 1440,
-      "2021-09-10": 257
+      "2021-09-11": 1440
     }
   }
 ]
