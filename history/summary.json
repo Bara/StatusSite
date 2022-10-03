@@ -2,7 +2,7 @@
   {
     "name": "Bara",
     "url": "https://bara.dev",
-    "icon": "https://favicons.githubusercontent.com/bara.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/bara.dev.ico",
     "slug": "bara",
     "status": "up",
     "uptime": "99.99%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 433,
-    "timeWeek": 744,
-    "timeMonth": 1524,
+    "time": 603,
+    "timeDay": 456,
+    "timeWeek": 641,
+    "timeMonth": 880,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2022-06-29": 21
@@ -22,7 +22,7 @@
   {
     "name": "CSGOTTT",
     "url": "https://csgottt.com",
-    "icon": "https://favicons.githubusercontent.com/csgottt.com",
+    "icon": "https://icons.duckduckgo.com/ip3/csgottt.com.ico",
     "slug": "csgottt",
     "status": "up",
     "uptime": "99.47%",
@@ -31,10 +31,10 @@
     "uptimeMonth": "91.90%",
     "uptimeYear": "99.28%",
     "time": 720,
-    "timeDay": 677,
-    "timeWeek": 757,
+    "timeDay": 650,
+    "timeWeek": 699,
     "timeMonth": 746,
-    "timeYear": 727,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2022-09-23": 276,
       "2022-09-08": 1243,
@@ -51,7 +51,7 @@
   {
     "name": "fuckTimer",
     "url": "https://fucktimer.com",
-    "icon": "https://favicons.githubusercontent.com/fucktimer.com",
+    "icon": "https://icons.duckduckgo.com/ip3/fucktimer.com.ico",
     "slug": "fuck-timer",
     "status": "up",
     "uptime": "99.38%",
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 128,
-    "timeDay": 177,
-    "timeWeek": 158,
-    "timeMonth": 155,
+    "timeDay": 183,
+    "timeWeek": 164,
+    "timeMonth": 158,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2022-06-29": 21,
